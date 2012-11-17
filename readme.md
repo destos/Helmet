@@ -4,7 +4,7 @@ Around September 2012 I decided to make a very complex fully enclosed bike helme
 
 This is not that project.
 
-This is a very scaled back version, consisting of a simple fiberglass cap with an attached restraint band. Which, aided by a ratcheting system tightens around your head give you a nice snug fit. A chin strap keeps the helmet from leaving your head, preventing your voluptuous strands of blond hair from being exposed to the wind.
+This is a very scaled back version, consisting of a simple fiberglass cap with an attached restraint band. Which, aided by a ratcheting system tightens around your head giving you a nice snug fit. A chin strap keeps the helmet from leaving your head, preventing your voluptuous strands of blond hair from being exposed to the wind.
 
 My goal is to have every single component either built by hand or via some CNC process.
 Well…  you might have to buy some readily available parts too.
