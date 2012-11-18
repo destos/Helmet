@@ -32,6 +32,9 @@ Required Materials
 ------------------
 
 * 3D printer filament
+* M3 nuts
+* M3 8mm machine screws
+* M8 14mm machine screws
 * Fiberglass moulding materials
 * Foam blocks
 * Nylon Straps
