@@ -2,3 +2,5 @@
 ideas
 #exported files such as .stl and inventor .stp files
 Parts/ratchet/exports
+# hide old parts
+Parts/old\ parts
